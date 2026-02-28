@@ -49,5 +49,5 @@ Este software é um **protótipo conceptual** realizado com auxílio de IA. Os c
 
 ---
 
-**Desenvolvido por:** [João Silva/joaosoaresesilva.github.io]  
+**Desenvolvido por:** João Silva/joaosoaresesilva.github.io/inkomatiATgmail.com
 **Localização:** Coimbra, Portugal 
